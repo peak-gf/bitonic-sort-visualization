@@ -49,7 +49,7 @@ Run the project
 ```
 simply run python3 visualize.py
 ```
-you'll see a video file generated within the same.
+you'll see a video file generated within the same folder.
 
 ## Built With
 
